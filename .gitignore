@@ -1,0 +1,7 @@
+bin/
+*.class
+tika/*.jar
+pdf_company/*.pdf
+pdf_noncompany/*.pdf
+output/
+.settings/
